@@ -1,0 +1,14 @@
+Passos a serem desenvolvidos no Lab 1:
+
+1. Desenvolver a lista abaixo, utilizando JS.
+2. Todas as questões da lista, devem ser desenvolvidas em um único arquivo html e js
+3. Entregar a lista na data de entrega 18/08, sem atraso.
+4. Não esquecer de apertar o botão de entregar.
+
+1.Crie um script JS que leia o nome de uma pessoa e mostre uma mensagem de Boas Vindas de acordo com o nome digitado.
+
+2.Ler dois valores a partir do prompt, calcular e imprimir na tela:
+a) A soma destes valores;
+b)O produto deles;
+c)O quociente entre eles;
+d)A diferença entre eles.
