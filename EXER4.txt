@@ -1,0 +1,19 @@
+Passos a serem desenvolvidos no Lab 4:
+
+1. Desenvolver a lista abaixo, utilizando JS.
+2. Todas as questões da lista, devem ser desenvolvidas em um único arquivo js e um html
+3. Entregar a lista na data de entrega 08/09, sem atraso.
+4. Não esquecer de apertar o botão de entregar.
+
+
+1. Calcular a quantidade de dinheiro gasta por um fumante. Dados: o número de anos que ele fuma, o número de cigarros fumados por dia e o preço de uma carteira.
+2. O triângulo é uma figura geométrica composta por três retas. Ele pode ser classificado conforme sua proporcionalidade. Equilátero Isósceles Escaleno
+Faça um prompt no qual o usuário informará três números que representam cada
+um dos lados de um triângulo e determine sua classificação de proporcionalidade.
+3. Efetue um programa em JS que receba os valor e a A,B,C e D. Efetue a soma
+entre A e C e a multiplicação entre B e D , verifique se o resultado da soma
+é maior, menor ou igual ao da multiplicação.
+4. Faça um Programa que peça o valor da gasolina e do álcool de um posto e diga qual é o combustível mais vantajoso abastecer,
+sabendo que somente é vantagem abastecer álcool se o preço do mesmo é menor ou igual a 70% do valor da gasolina.
+Concluída Atividade
+Laboratório 3
