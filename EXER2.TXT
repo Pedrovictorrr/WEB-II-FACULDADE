@@ -1,0 +1,14 @@
+Passos a serem desenvolvidos no Lab 2:
+
+1. Desenvolver a lista abaixo, utilizando JS.
+2. Todas as questões da lista, devem ser desenvolvidas em um único arquivo js e um html
+3. Entregar a lista na data de entrega 23/08, sem atraso.
+4. Não esquecer de apertar o botão de entregar.
+
+1.Digite 2 números de sua escolha e depois imprima a soma, a subtração, multiplicação, divisão e o resto da divisão, usando o prompt e mostrando na tela usando o template literal.
+
+2.Faça um programa que peça as 4 notas e mostre a média ponderada do aluno.
+
+3.Elaborar um programa que leia um número. Calcule e informe o dobro desse número.
+
+4.Elaborar um programa que leia o valor de um jantar. Calcule e informe o valor da taxa do garçom(10%) e o valor total a ser pago.
